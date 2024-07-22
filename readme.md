@@ -30,7 +30,8 @@ This file defines a whisper_ai class that allows users to transcribe audio files
 - Whisper
 - Fabric
 - Python
-- Bash 
+- Bash
+- Linux 
 
 ## How to get started
 1. Install [Ollama](https://ollama.com/)
