@@ -1,8 +1,8 @@
-# YouTube Video Downloader and AI Summarizer 
+# YouTube Video Sound Downloader and AI Summarizer 
 
 ## Introduction
 
-The "YouTube Video Downloader and AI Summarizer" project is a Python script that allows users to download audio from YouTube videos, transcribe their audio content using Whisper AI, and then summarize the transcript using natural language processing (NLP) techniques. The script uses PyTube to fetch video metadata, Whisper to transcribe the audio content, and NLP libraries (Ollama & Fabric) to generate summaries. The project consists of four main files: youtbue_downloader.py, main.py, whisper.py, and CreateSummary.bash. Everything is done locally on your computer.
+The "YouTube Video Sound Downloader and AI Summarizer" project is a Python script that allows users to download audio from YouTube videos, transcribe their audio content using Whisper AI, and then summarize the transcript using natural language processing (NLP) techniques. The script uses PyTube to fetch video metadata, Whisper to transcribe the audio content, and NLP libraries (Ollama & Fabric) to generate summaries. The project consists of four main files: youtbue_downloader.py, main.py, whisper.py, and CreateSummary.bash. Everything is done locally on your computer.
 
 Overall, this project provides a convenient way to download, transcribe, and summarize YouTube videos using Python and Whisper AI.
 
